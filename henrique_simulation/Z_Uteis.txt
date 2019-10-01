@@ -5,5 +5,5 @@ sumo-gui -c hello.sumocfg
 
 // comentarios
 
-CAR2 é o contaminado
-CAR3 é o mais rapido, que pega o contaminado e passa pro 1
+CAR2 Ã© o contaminado
+CAR3 Ã© o mais rapido, que pega o contaminado e passa pro 1
