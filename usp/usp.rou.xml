@@ -1,4 +1,0 @@
-<routes>
-	<vType accel="1.0" decel="5.0" id="Car1" length="2.0" maxSpeed="10.0" sigma="0.0" color="1,0,0"/>
-	<flow depart="0" id="flow1" begin="0" end="100" from="152921637" to="-34856758" type="Car1" number="40" />
-</routes>
