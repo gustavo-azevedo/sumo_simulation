@@ -1,7 +1,7 @@
 <configuration>
     <input>
         <net-file value="usp.net.xml"/>
-        <route-files value="usp2.rou.xml"/>
+        <route-files value="usp.rou.xml"/>
         <gui-settings-file value="usp.settings.xml"/>
     </input>
     <time>
